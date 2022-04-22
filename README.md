@@ -8,3 +8,5 @@ Empirically verify relative efficiencies of QuickSort and its variations. This i
 2) Median of 3 Quicksort
 3) Random Pivot Quicksort
 4) MergeSort
+
+Assignment by Dr. John Ramirez
