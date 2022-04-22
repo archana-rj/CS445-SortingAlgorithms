@@ -1,0 +1,51 @@
+Last login: Sat Apr 18 14:19:31 on ttys000
+Archanas-MacBook-Air:~ archana$ cd Desktop
+
+Archanas-MacBook-Air:Desktop archana$ java Assig4 640000 20 false
+
+After the tests, here is the best setup:
+	Algorithm: Simple Pivot QuickSort
+	Data status:	Random
+	Min Recurse:	8.0
+	Average:	0.2087051877 sec
+
+After the tests, here is the worst setup:
+	Algorithm: MergeSort
+	Data status:	Random
+	Min Recurse:	38.0
+	Average:	0.5629298370000001 sec
+
+Here are the per algorithm results:
+	Algorithm: Simple Pivot QuickSort
+	Best Result:
+		Min Recurse: 8
+		Average: 0.2087051877 sec
+	Worst Result:
+		Min Recurse: 68
+		Average: 0.2892522135500001sec
+
+Algorithm: Median of Three QuickSort
+	Best Result:
+		Min Recurse: 8
+		Average: 0.22343006534999996 sec
+	Worst Result:
+		Min Recurse: 38
+		Average: 0.31253276285sec
+
+Algorithm: Random Pivot QuickSort
+	Best Result:
+		Min Recurse: 18
+		Average: 0.22415694945000006 sec
+	Worst Result:
+		Min Recurse: 43
+		Average: 0.3106365933sec
+
+Algorithm: MergeSort
+	Best Result:
+		Min Recurse: 53
+		Average: 0.4729909951999999 sec
+	Worst Result:
+		Min Recurse: 38
+		Average: 0.5629298370000001sec
+Archanas-MacBook-Air:Desktop archana$ 
+

@@ -1,0 +1,53 @@
+Last login: Sat Apr 18 14:19:31 on ttys000
+Archanas-MacBook-Air:~ archana$ cd Desktop
+Archanas-MacBook-Air:Desktop archana$ javac Assig4.java
+Note: Assig4.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+
+Archanas-MacBook-Air:Desktop archana$ java Assig4 320000 20 false
+
+After the tests, here is the best setup:
+	Algorithm: Simple Pivot QuickSort
+	Data status:	Random
+	Min Recurse:	8.0
+	Average:	0.08971792859999998 sec
+
+After the tests, here is the worst setup:
+	Algorithm: MergeSort
+	Data status:	Random
+	Min Recurse:	48.0
+	Average:	0.21758702985000006 sec
+
+Here are the per algorithm results:
+	Algorithm: Simple Pivot QuickSort
+	Best Result:
+		Min Recurse: 8
+		Average: 0.08971792859999998 sec
+	Worst Result:
+		Min Recurse: 53
+		Average: 0.11788463585000004sec
+
+Algorithm: Median of Three QuickSort
+	Best Result:
+		Min Recurse: 8
+		Average: 0.09282453010000002 sec
+	Worst Result:
+		Min Recurse: 53
+		Average: 0.12257226530000001sec
+
+Algorithm: Random Pivot QuickSort
+	Best Result:
+		Min Recurse: 28
+		Average: 0.09293429110000001 sec
+	Worst Result:
+		Min Recurse: 53
+		Average: 0.11817991754999999sec
+
+Algorithm: MergeSort
+	Best Result:
+		Min Recurse: 8
+		Average: 0.19089996155000005 sec
+	Worst Result:
+		Min Recurse: 48
+		Average: 0.21758702985000006sec
+Archanas-MacBook-Air:Desktop archana$ 
